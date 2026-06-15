@@ -1,3 +1,0 @@
-# In this section, you'll use group_by() and summarize() to answer questions about state prision counts by decade
-## which decade saw the largest percentage groth in state prisions? Measure percent growth as (Cde-Cds/Cds) where Cde 
-## is the count at the end of decade and Cds is the start of the decade. You can use the first() and last() functions.
