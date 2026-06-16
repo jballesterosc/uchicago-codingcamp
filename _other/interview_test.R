@@ -5,7 +5,7 @@
 library(tidyverse)
 
 getwd()
-setwd("/Users/jayballesteros/_github/uchicag-codingcamp")
+setwd("/Users/jayballesteros/_github/uchicag-codingcamp/_data/")
 data <- read_csv("data.csv")
 
 # first let's review the shape of our data
